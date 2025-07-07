@@ -1,0 +1,35 @@
+| Usuario Github   | Apellido y nombre               | Tests ok | DER        | DLR        | Comentarios                                                  |
+| ---------------- | ------------------------------- | -------- | ---------- | ---------- | ------------------------------------------------------------ |
+| 49380211         | Atalah Waisberg Nicolas Martin  | 14       | ok         | ok         |                                                              |
+| FacundoBenavente | Benavente Facundo               | 14       | ok         | reg        | estan mal las fk del dlr                                     |
+| micabod          | Bodner Micaela Nell             | 14       | reg        | bien-      | der ponen relacion como atributo, dlr album no va en artista |
+| nacho883         | Bourdieu Ignacio                | 14       | ok         | ok         |                                                              |
+| tomiBraunn       | Braun Tomas                     | 14       | no entrega | no entrega |                                                              |
+| miacuesta        | Cuesta Barizom Mia              | 14       | bien       | reg        | inventaron tablas innecesarias                               |
+| TobiEtbul        | Etbul Tobias                    | 14       | ok         | falta dlr  |                                                              |
+| MaiteGalarza     | Galarza Astiz Maite             | 14       | bien       | reg        | inventaron tablas innecesarias                               |
+| miagerman        | German Mia                      | 14       | ok         | ok         |                                                              |
+| mimugon          | Gonzalez Barandica Mia Lourdes  | 14       | bien       | reg        | inventaron tablas innecesarias                               |
+| juligric         | Gric Julieta                    | 14       | ok         | ok         |                                                              |
+| Joan-GR          | Guerson Ruiz Joan               | 14       | ok         | falta dlr  |                                                              |
+| hanono09         | Hanono Federico Martin          | 14       | ok         | ok         |                                                              |
+| FacundoJarma     | Jarma Urdangaron Facundo Nair   | 14       | ok         | ok         |                                                              |
+| melikeni         | Kenigsberg Melina               | 14       | ok         | ok         |                                                              |
+| maikisinovsky    | Kisinovsky Maia                 | 14       | ok         | ok         |                                                              |
+| JuanLiguK        | Liguori Knoll Juan              | 14       | ok         | reg        | estan mal las fk del dlr                                     |
+| Benjam4623       | Menalled Benjamin Andres        | 14       | ok         | ok         |                                                              |
+| Sainoso          | Nosovitzky Simon                | 14       | reg        | bien-      | der ponen relacion como atributo, dlr album no va en artista |
+| felipenovella    | Novella Felipe                  | 13       | ok         | ok         | deberian llamar reproducirCancion y habia un bug ahi ademas  |
+| Geraldine-Oriolo | Oriolo Geraldine                | 14       | ok         | ok         |                                                              |
+| santi901         | Rehmann Santiago Martin         | 14       | ok         | ok         |                                                              |
+| teoreiman        | Reiman Teo                      | 14       | no entrega | no entrega |                                                              |
+| gonzareyb        | Rey Balmaceda Gonzalo           | 13       | ok         | ok         | deberian llamar reproducirCancion y habia un bug ahi ademas  |
+| 49121813         | Romano Agustina Sofia           | 14       | ok         | ok         |                                                              |
+| tuliorubin       | Rubinstein Tulio Timoteo        | 14       | ok         | falta dlr  |                                                              |
+| tincho20087      | Safar Martin Benicio            | 13       | ok         | ok         | deberian llamar reproducirCancion y habia un bug ahi ademas  |
+| augusgerco       | Sanchez Gerovich Augusto Daniel | 14       | ok         | ok         |                                                              |
+| rafashayo        | Shayo Rafael                    | 14       | ok         | ok         |                                                              |
+| maxistolki       | Stolkiner Maximo                | 14       | ok         | reg        | estan mal las fk del dlr                                     |
+| Manu934          | Szwarc Manu                     | 14       | no entrega | no entrega |                                                              |
+| zonis-maker      | Zonis Federico                  | 14       | ok         | ok         |                                                              |
+| brigitteblau     | Brigitte Blau                   | 14       | reg        | bien-      | der ponen relacion como atributo, dlr album no va en artista |
