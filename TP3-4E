@@ -1,0 +1,30 @@
+| Usuario Github   | Apellido y nombre                   | Tests ok | DER        | DLR        | Comentarios                                                                      |  |  |  |
+| ---------------- | ----------------------------------- | -------- | ---------- | ---------- | -------------------------------------------------------------------------------- |  |  |  |
+| Leoli16          | Abud Leonel Matias                  | 14       | ok         | ok         |                                                                                  |  |  |  |
+| NicoBatti        | Battias Nicolas                     | 14       | ok         | ok         |                                                                                  |  |  |  |
+| Martooooooo      | Biosca Martin Ivan                  | 14       | ok         | ok         |                                                                                  |  |  |  |
+| PedroConverso    | Converso D'Andrea Pedro             | 1        | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| felgimon         | Doval Ferrari Felipe Daniel         | 14       | ok         | ok         |                                                                                  |  |  |  |
+| Mateo-Drault     | Drault Mateo                        | 14       | ok         | ok         |                                                                                  |  |  |  |
+| martinnnduran    | Duran Sanchez Martin Felipe         | 14       | ok         | reg        | id playlist no va en cancion, bien playlists API                                 |  |  |  |
+| eitan-que        | Feldman Eitan                       | 14       | ok         | reg        | id playlist no va en cancion, bien playlists API                                 |  |  |  |
+| NicoFuksman      | Fuksman Nicolas Ariel               | 10       | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| pepegon08        | Gonzalez Pedro                      | 0        | reg        | ok         | der ponen relacion como atributo, tests no funcionan y faltan endpoints en index |  |  |  |
+| Teo2602          | Gonzalez Rozenberg Teo Ezequiel     | 14       | ok         | ok         |                                                                                  |  |  |  |
+| Iair1            | Grebnicoff Iair                     | 10       | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| Facuindo         | Gutierrez Lowenstein Facundo Martin | 10       | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| PedroHenriquez24 | Henriquez Pedro                     | 14       | ok         | ok         |                                                                                  |  |  |  |
+| OliverJones08    | Jones Oliver                        | 14       | ok         | reg        | id playlist no va en cancion, bien playlists API                                 |  |  |  |
+| nicokrym         | Krymkiewicz Hevia Nicolas           | 1        | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| Matikuper        | Kuperman Matias                     | 12       | reg        | ok         | der ponen relacion como atributo, post canciones falla, put canciones falla      |  |  |  |
+| millieloisi      | Loisi Milagros                      | 0        | reg        | ok         | der ponen relacion como atributo, tests no funcionan y faltan endpoints en index |  |  |  |
+| RENATALB         | Lopez Bruzzone Renata               | 14       | reg        | ok         | der ponen relacion como atributo                                                 |  |  |  |
+| mercho40         | Mersich Rolando                     | 14       | ok         | reg        | id playlist no va en cancion, bien playlists API                                 |  |  |  |
+| lara0m           | Muiña Lara                          | 14       | reg        | ok         | der ponen relacion como atributo                                                 |  |  |  |
+| Teo50000         | Nieto Barreiro Teo Blas             | 0        | reg        | ok         | der ponen relacion como atributo, tests no funcionan y faltan endpoints en index |  |  |  |
+| lucioroa         | Roa Zegen Massimino Lucio           | 12       | reg        | ok         | der ponen relacion como atributo, post canciones falla, put canciones falla      |  |  |  |
+| Santinorua       | Ruani Santino                       | 14       | ok         | ok         |                                                                                  |  |  |  |
+| Sabetay          | Sabetay Lola                        | 14       | reg        | ok         | der ponen relacion como atributo                                                 |  |  |  |
+| Saikokyler       | Tenenbaum Matias Ezequiel           | 1        | no entrega | no entrega | revisar los endpoints dan muchos errores                                         |  |  |  |
+| fedevitacca      | Vitacca Azrak Federico Jose         | 12       | reg        | ok         | der ponen relacion como atributo, post canciones falla, put canciones falla      |  |  |  |
+| LuchoGirotti     | Girotti Luciano                     | 14       | ok         | ok         |                                                                                  |  |  |
